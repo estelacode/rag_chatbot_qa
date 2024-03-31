@@ -32,11 +32,19 @@ To get a local copy up and running follow these simple example steps.
 2.  Create enviroment
 ```sh
    python -m venv ia_env
-   ia_env\Scripts\activate
 ```
-3.  Install dependencies
+3.  Activate enviroment
+```sh
+   ..\ia_env\Scripts\activate
+```
+
+4.  Install dependencies
 ```sh
    pip freeze > requirements.txt
    pip install -r requirements.txt
    pip show langchain
+```
+5.  Deactivate enviroment
+```sh
+   deactivate
 ```

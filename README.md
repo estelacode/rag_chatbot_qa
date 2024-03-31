@@ -38,4 +38,5 @@ To get a local copy up and running follow these simple example steps.
 ```sh
    pip freeze > requirements.txt
    pip install -r requirements.txt
+   pip show langchain
 ```

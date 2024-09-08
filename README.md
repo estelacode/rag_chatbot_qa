@@ -2,6 +2,8 @@
 
 Chatbot implementado con LangChain y Gradio basico que responde a preguntas sobre ciencia de datos.
 
+![Demo-Rag Chatbot QA](https://github.com/estelacode/data_science_interview_chatbot/blob/main/src/assets/chatbot_qa_demo.jpg)
+
 ### Built With
 
 * Python
@@ -10,10 +12,7 @@ Chatbot implementado con LangChain y Gradio basico que responde a preguntas sobr
 * Faiss
 * Gradio
 
-
-
 ## Getting Started
-
 
 ### Prerequisites
 To get a local copy up and running follow these simple example steps.

@@ -35,7 +35,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
 ```sh
-   git clone https://github.com/estelacode/data_science_interview_chatbot.git
+   git clone https://github.com/estelacode/rag_chatbot_qa.git
 ```
 2.  Create enviroment
 ```sh

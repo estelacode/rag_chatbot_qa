@@ -1,6 +1,6 @@
-# RAG Chatbot -  Question and Answer Chatbot
+# Naive RAG Chatbot 
 
-Chatbot implementado con LangChain y Gradio basico que responde a preguntas sobre ciencia de datos.
+🤖 Naive Rag Chatbot | Responde a preguntas sobre Ciencia de Datos 📚. Implementado con LangChain y Gradio
 
 ![Demo-Rag Chatbot QA](https://github.com/estelacode/data_science_interview_chatbot/blob/main/src/assets/chatbot_qa_demo.jpg)
 
